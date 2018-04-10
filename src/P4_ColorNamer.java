@@ -6,8 +6,13 @@
 
 public class P4_ColorNamer {
 
-	public static void main(String[] args) {
-
+	public static void main(String[] args) {	
+		if (char == g || G) {
+			System.out.print(Green);
+		} else if (char == r || R) {
+			System.out.print(Red);
+		} else if (char == b || B) {
+			System.out.print(Blue);
+		}
 	}
-
 }
